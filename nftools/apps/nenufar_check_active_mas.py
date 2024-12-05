@@ -1,4 +1,3 @@
-#!/usr/bin/env python
 #
 #   2024 Fabian Jankowski
 #   Check the mini-arrays active in a NenuFAR observation.
